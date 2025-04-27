@@ -52,5 +52,6 @@
 和更多志同道合的玩家一起冒险与创造！
 
 - 官方网站：[https://www.drc-team.org.cn](https://www.drc-team.org.cn)
+- 加入我们：Support@www.drc-team.org.cn
 
 ---
